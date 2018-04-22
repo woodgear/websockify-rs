@@ -1,0 +1,13 @@
+[package]
+name = "websockify"
+version = "0.1.0"
+authors = ["wucong <1875486458@qq.com>"]
+
+[dependencies]
+websocket = { path = "C:\\Users\\wucong\\work\\Community\\rust-websocket" }
+futures = "0.2.0"
+tokio-core = "0.1.16"
+failure = "0.1.1"
+ws = "0.7.6"
+
+
